@@ -1,2 +1,2 @@
 # skyjo
-Amateur adaptation of the card game Skyjo de Alexander Bernhardt
+Amateur adaptation of the card game Skyjo by Alexander Bernhardt
